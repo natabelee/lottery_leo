@@ -1,3 +1,5 @@
+discord: natabelen
+
 # lottery.aleo
 
 ## Run Guide
